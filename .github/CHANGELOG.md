@@ -244,6 +244,8 @@
 1. [HYD] Reduced engine driven pumps efficiency in active regulation area - @Crocket63
 1. [FMGC] Implemented Airport Button - @patmack14 (Patrick Macken)
 1. [RMP] Fixed colour of SEL indicator - @tracernz (Mike)
+1. [ATSU] Add FANS-C simulation for CPDLC - @Sven [de en] - (Sven Czarnian)
+1. [ATSU] Add VDL3-simulation of datalink transport protocol - @Sven [de en] - (Sven Czarnian)
 
 ## 0.7.0
 
